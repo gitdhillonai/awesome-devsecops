@@ -172,6 +172,7 @@ Visualization is an important element of identifying, sharing and evolving the s
 
 * [Grafana](http://grafana.org/)
 * [Kibana](https://www.elastic.co/products/kibana)
+* [ShipReady Metrics (P)](https://shipreadymetrics.com) - Free v1 dashboard that ranks vulnerabilities by exploitability (CISA KEV, EPSS, CVSS) next to DORA and tech-debt signals. Reads from connected sources; source code is never stored.
 
 ## Automation
 Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
